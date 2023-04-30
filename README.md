@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @luthando-kelengeshe, welcome to my repo.
+- 👋 Hi, I’m @luthando-kelengeshe, welcome to my github.
 - ✨ I’m a software developer.
 - 🌱 I'm currently procient in java spring boot, c# .net, php laravel, mysql, mssql, angular and vue.js.
 - 👀 I’m currently learning python on the side.
