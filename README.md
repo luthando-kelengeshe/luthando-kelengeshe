@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @luthando-kelengeshe.
+- 👋 Hi, I’m @luthando-kelengeshe, welcome to my repo.
 - ✨ I’m a software developer.
-- 🌱 I’m currently enhancing my java spring boot and learning python on the side.
+- 🌱 I'm currently procient in java spring boot, c# .net, php laravel, mysql, mssql, angular and vue.js.
+- 👀 I’m currently learning python on the side.
 - 💞️ I’m looking to collaborate on projects with java's spring boot, C#.net or php's laravel for now.
 - 📫 You can reach me on this email : Lkelengeshe@outlook.com
